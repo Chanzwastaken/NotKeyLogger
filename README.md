@@ -89,6 +89,7 @@
 - Testing keyboard inputs.
 - Educational purposes for understanding how keyloggers work.
 - Learning about Python multithreading and file handling.
+- Stealing your friend gaming account! (not recommended)
 
 ---
 
