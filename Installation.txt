@@ -1,0 +1,2 @@
+to build exe
+pyinstaller --noconsole --onefile --name "notkeylogger" notkeylogger.pyw
